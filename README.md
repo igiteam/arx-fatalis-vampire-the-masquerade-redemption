@@ -8,6 +8,9 @@ A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatali
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/arx-fatalis-vampire-the-masquerade-redemption/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/arx-fatalis-vampire-the-masquerade-redemption/git/trees/main?recursive=1)
 
+## Arx Fatalis Web Assembly
+[https://rgc.zone/ports/arxweb/index.html](https://rgc.zone/ports/arxweb/index.html)
+
 [https://wiki.arx-libertatis.org/Arx_Fatalis_tools](https://wiki.arx-libertatis.org/Arx_Fatalis_tools)
 
 [https://github.com/arx-tools](https://github.com/arx-tools)
