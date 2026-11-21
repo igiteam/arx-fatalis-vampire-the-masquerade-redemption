@@ -24,7 +24,7 @@ A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatali
 
 ![https://raw.githubusercontent.com/igiteam/arx-fatalis-vampire-the-masquerade-redemption/refs/heads/master/arxpak-pak-viewer.png](https://www.moddb.com/games/arx-fatalis/downloads/arxpak)
 
-![[mption/refs/heads/master/](https://raw.githubusercontent.com/igiteam/arx-fatalis-vampire-the-masquerade-redemption/refs/heads/master/)Danae_Windows.jpg](https://www.moddb.com/games/arx-fatalis/downloads/damnable-but-necessary-arx-editor-danae)
+![https://raw.githubusercontent.com/igiteam/arx-fatalis-vampire-the-masquerade-redemption/refs/heads/master/Danae_Windows.jpg](https://www.moddb.com/games/arx-fatalis/downloads/damnable-but-necessary-arx-editor-danae)
 
 
 ## Reference Links
