@@ -26,7 +26,7 @@ A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatali
 
 [![Vampire: The Masquerade – Redemption](https://i.ytimg.com/vi/wsGczK6KmaY/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFc3u1dThsYgp_NX3R2olgH)
 
-[![Arx Fatalis | Classic Dungeon Crawler!](https://img.youtube.com/vi/fkh-G8--9G4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZmtoLUc4LS05RzQ)
+[![Arx Fatalis](https://img.youtube.com/vi/fkh-G8--9G4/hqdefault.jpg)](https://ytembed.macosxjs.com/?ZmtoLUc4LS05RzQ)
 
 [![Vampire: The Masquerade - Redemption](https://img.youtube.com/vi/N0uhXJca93E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?LUNiQ2pRbUtWaUk)
 
