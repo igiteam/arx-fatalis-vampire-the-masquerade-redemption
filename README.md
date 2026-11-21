@@ -30,9 +30,17 @@ A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatali
 
 [![Danae_Windows](https://raw.githubusercontent.com/igiteam/arx-fatalis-vampire-the-masquerade-redemption/refs/heads/master/Danae_Windows.jpg)](https://www.moddb.com/games/arx-fatalis/downloads/damnable-but-necessary-arx-editor-danae)
 
+[![Vampire: The Masquerade - Redemption](https://img.youtube.com/vi/N0uhXJca93E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?LUNiQ2pRbUtWaUk)
+
 
 ## Reference Links
 [https://www.youtube.com/playlist?list=PLb8oNKiUbnjFc3u1dThsYgp_NX3R2olgH](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFc3u1dThsYgp_NX3R2olgH)
+
+[https://archive.org/details/arxfatalis-pc-redump](https://archive.org/details/arxfatalis-pc-redump)
+
+[https://archive.org/download/Vampire_The_Masquerade_Redemption_Activison_2000](https://archive.org/download/Vampire_The_Masquerade_Redemption_Activison_2000)
+
+[https://www.moddb.com/games/vampire-the-masquerade-redemption/downloads](https://www.moddb.com/games/vampire-the-masquerade-redemption/downloads)
 
 [https://archive.org/details/vampire-the-masquerade-20th-anniversary-edition](https://archive.org/details/vampire-the-masquerade-20th-anniversary-edition)
 
@@ -79,7 +87,7 @@ Reddit: [/r/ArxFatalis/](https://old.reddit.com/r/ArxFatalis/)
 * A **C++ 17** compiler (GCC 7+, Clang 5+, MSVC 19.15+ aka Visual Studio 2017 15.8+)
 * **[CMake](https://cmake.org/) 3.12**+ (compile-time only)
 * **[zlib](https://zlib.net/)**
-* **[Boost](https://www.boost.org/) 1.58**+ (headers only¹)
+* **[Boost](https://www.boost.org/) 1.58**+ (headers only¹)]
 * **[GLM](https://glm.g-truc.net/) 0.9.9.7**+
 * **[FreeType](https://freetype.org/) 2.3.0**+
 * **OpenAL 1.1**+ ([OpenAL Soft](https://openal-soft.org/) strongly recommended!)
