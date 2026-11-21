@@ -8,7 +8,24 @@ A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatali
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/arx-fatalis-vampire-the-masquerade-redemption/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/arx-fatalis-vampire-the-masquerade-redemption/git/trees/main?recursive=1)
 
+[https://wiki.arx-libertatis.org/Arx_Fatalis_tools](https://wiki.arx-libertatis.org/Arx_Fatalis_tools)
+
+[https://github.com/arx-tools](https://github.com/arx-tools)
+
+[https://arx-tools.github.io/](https://arx-tools.github.io/)
+
+[https://www.moddb.com/games/arx-fatalis/downloads/half-life-to-arx-fatalis-fts-converter](https://www.moddb.com/games/arx-fatalis/downloads/half-life-to-arx-fatalis-fts-converter)
+
+[https://www.moddb.com/games/arx-fatalis/downloads/arxpak](https://www.moddb.com/games/arx-fatalis/downloads/arxpak)
+
+[https://www.moddb.com/games/arx-fatalis/downloads/damnable-but-necessary-arx-editor-danae](https://www.moddb.com/games/arx-fatalis/downloads/damnable-but-necessary-arx-editor-danae)
+
 [![Vampire: The Masquerade – Redemption](https://i.ytimg.com/vi/wsGczK6KmaY/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFc3u1dThsYgp_NX3R2olgH)
+
+![https://raw.githubusercontent.com/igiteam/arx-fatalis-vampire-the-masquerade-redemption/refs/heads/master/arxpak-pak-viewer.png](https://www.moddb.com/games/arx-fatalis/downloads/arxpak)
+
+![mption/refs/heads/master/Danae_Windows.jpg](https://www.moddb.com/games/arx-fatalis/downloads/damnable-but-necessary-arx-editor-danae)
+
 
 ## Reference Links
 [https://www.youtube.com/playlist?list=PLb8oNKiUbnjFc3u1dThsYgp_NX3R2olgH](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFc3u1dThsYgp_NX3R2olgH)
