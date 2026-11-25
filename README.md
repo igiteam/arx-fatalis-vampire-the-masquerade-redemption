@@ -1,5 +1,5 @@
 # arx-fatalis-vampire-the-masquerade-redemption
-## Arx Fatalis - Vampire: The Masquerade – Redemption
+## Arx Fatalis - Vampire The Masquerade Redemption Remake
 A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatalis** engine/project.
 
 ## Github Treeview
