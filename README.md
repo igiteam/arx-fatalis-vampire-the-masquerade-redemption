@@ -16,6 +16,8 @@ A remake of *Vampire: The Masquerade – Redemption* rebuilt in the **Arx Fatali
 ## Base Gameplay
 [https://github.com/arx-tools](https://github.com/arx-tools)
 
+[https://archive.org/details/Paine-vampire-files](https://archive.org/details/Paine-vampire-files)
+
 [https://arx-tools.github.io/](https://arx-tools.github.io/)
 
 [https://www.moddb.com/games/arx-fatalis/downloads/half-life-to-arx-fatalis-fts-converter](https://www.moddb.com/games/arx-fatalis/downloads/half-life-to-arx-fatalis-fts-converter)
